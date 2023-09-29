@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![An image of @shashankshekharr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashankshekharr)](https://holopin.io/@shashankshekharr)
 <a href="https://linkedin.com/in/shashank-shekhar-93263b283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-shekhar-93263b283" height="30" width="40" /></a>
 <a href="https://instagram.com/shashaaankkkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaankkkkk" height="30" width="40" /></a>
 </p>
