@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank shekhar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Python , Django**
 
