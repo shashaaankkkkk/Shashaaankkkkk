@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank shekhar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** **IOS Development**
 - 💬 Ask me about **Python , Django**
 - 📫 How to reach me **shashankkshekharrr@gmail.com**
   
