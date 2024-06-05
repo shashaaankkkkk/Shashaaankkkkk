@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shashank shekhar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<p align='center'>
+  <a href="https://github.com/crockrocks">
+    <img src="https://komarev.com/ghpvc/?username=crockrockss&color=orange" />
+  </a><br/>
+  <a href="https://github.com/crockrocks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crockrocks&show_icons=true&theme=synthwave" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning **MERN** , **IOS Development**
 - 💬 Ask me about **Python , Django**
 - 📫 How to reach me **shashankkshekharrr@gmail.com**
