@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align='center'>
-  <a href="https://github.com/crockrocks">
-    <img src="https://komarev.com/ghpvc/?username=crockrockss&color=orange" />
+  <a href="https://github.com/shashaaankkkkk">
+    <img src="https://komarev.com/ghpvc/?username=shashaaankkkkk&color=orange" />
   </a><br/>
-  <a href="https://github.com/crockrocks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crockrocks&show_icons=true&theme=synthwave" />
+  <a href="https://github.com/shashaaankkkkk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashaaankkkkk&show_icons=true&theme=synthwave" />
   </a>
 </p>
 
