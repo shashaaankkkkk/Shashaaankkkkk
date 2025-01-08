@@ -20,3 +20,5 @@
  <a href="https://github.com/shashaaankkkkk">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashaaankkkkk&show_icons=true&theme=synthwave" />
   </a>
+
+![shashaaankkkkk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashaaankkkkk&theme=tokyonight&hide_border=true)
