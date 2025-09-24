@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [ZeroAPI](https://github.com/shashaaankkkkk/ZeroAPI)
 
-- 🌱 I’m currently learning **Rust and Web3**
+- 🌱 I’m currently learning **Rust,Web3 and Scalable systems**
 
-- 📝 I regularly write articles on [https://shashaaankkkkk.meduim.com/](https://shashaaankkkkk.meduim.com/)
+- 📝 I regularly write articles on [https://shashaaankkkkk.medium.com/](https://shashaaankkkkk.medium.com/)
 
 - 💬 Ask me about **React, Django,Backend**
 
