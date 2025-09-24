@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust,Web3 and Scalable systems**
 
-- 📝 I regularly write articles on [https://shashaaankkkkk.medium.com/](https://shashaaankkkkk.medium.com/)
+- 📝 I irregularly write articles on [https://shashaaankkkkk.medium.com/](https://shashaaankkkkk.medium.com/)
 
 - 💬 Ask me about **React, Django,Backend**
 
