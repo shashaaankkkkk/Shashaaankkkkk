@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [ZeroAPI](https://github.com/shashaaankkkkk/ZeroAPI)
 
-- 🌱 I’m currently learning **Rust,Web3 and Scalable systems**
+- 🌱 I’m currently learning **Backend, Go, DevOps and Scalable systems**
 
 - 📝 I irregularly write articles on [https://shashaaankkkkk.medium.com/](https://shashaaankkkkk.medium.com/)
 
-- 💬 Ask me about **React, Django,Backend**
+- 💬 Ask me about **React, Django, Backend**
 
 - 📫 How to reach me **shashankshekhar8534@gmail.com**
 
