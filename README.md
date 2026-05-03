@@ -138,7 +138,7 @@ I managed **[Hackfed](https://github.com/HackfedCommunity)** — a developer com
 
 ## 🤝 Community & leadership
 
-- 🏗️ **Community Manager** — [Hackfed](https://github.com/HackfedCommunity), Greater Noida
+- 🏗️ **Community Managed** — [Hackfed](https://github.com/HackfedCommunity), Greater Noida
 - 👨‍💻 **Web Dev Lead** — GDG On Campus, Gautam Buddha University (2024–2025)
 - 🧑‍🏫 **Web Developer Lead** — Microsoft Learn Student Ambassador, GBU (2024)
 - 🤖 **AI Summer Trainee** — Samsung Innovation Campus (2024)
