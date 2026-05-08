@@ -37,18 +37,18 @@ I managed **[Hackfed](https://github.com/HackfedCommunity)** — a developer com
 
 ## 🔬 Research & presentations
 
-| Type | Title | Venue | Year |
-|---|---|---|---|
-| 📄 **Paper** | DCAT — Dual CNN Encoder with Cross-Attention Transformer Decoder for Enhanced Image Captioning | 13th International Conference on Microelectronics, Circuits and Systems (Micro 2026) | 2026 |
-| 🪧 **Poster** | Leveraging AR/VR for Immersive Skill Building Experiments and Future Skills — Aligning Education with Industry 5.0 | 1st International Skill Development & Research Innovation Summit | 2025 |
+| Type          | Title                                                                                                                                    | Venue                                                                                | Year |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---- |
+| 📄 **Paper**  | [DCAT — Dual CNN Encoder with Cross-Attention Transformer Decoder for Enhanced Image Captioning](https://github.com/shashaaankkkkk/DCAT) | 13th International Conference on Microelectronics, Circuits and Systems (Micro 2026) | 2026 |
+| 🪧 **Poster** | Leveraging AR/VR for Immersive Skill Building Experiments and Future Skills — Aligning Education with Industry 5.0                       | 1st International Skill Development & Research Innovation Summit                     | 2025 |
 
-**DCAT** combines a dual CNN encoder with a cross-attention transformer decoder to generate richer, more contextually accurate image captions. The dual-encoder captures multi-scale visual features while the cross-attention mechanism improves semantic alignment between visual and textual representations.
+**[DCAT](https://github.com/shashaaankkkkk/DCAT)** combines a dual CNN encoder with a cross-attention transformer decoder to generate richer, more contextually accurate image captions. The dual-encoder captures multi-scale visual features while the cross-attention mechanism improves semantic alignment between visual and textual representations.
 
 ![Conference](https://img.shields.io/badge/Micro_2026-Published-blueviolet?style=flat)
 ![Domain](https://img.shields.io/badge/Domain-Computer%20Vision%20%2B%20NLP-blue?style=flat)
 ![Poster](https://img.shields.io/badge/Summit_2025-Poster_Presenter-green?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-DCAT-black?style=flat\&logo=github)
 
----
 
 ## 🚀 The Zero universe
 
