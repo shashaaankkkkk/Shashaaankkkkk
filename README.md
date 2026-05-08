@@ -65,13 +65,12 @@ I managed **[Hackfed](https://github.com/HackfedCommunity)** — a developer com
 
 ## 📦 Python packages on PyPI
 
-| Package | Description | Install | Version | Monthly Downloads |
+| Package | Description | Install | Version | Total Downloads |
 |---|---|---|---|---|
-| [🖼️ zerowallpaper](https://pypi.org/project/zerowallpaper/) | Terminal wallpaper engine — stream, filter & set wallpapers from your terminal | `pip install zerowallpaper` | ![](https://img.shields.io/pypi/v/zerowallpaper?color=a855f7&logo=pypi&logoColor=white&label=) | ![](https://img.shields.io/pypi/dm/zerowallpaper?color=a855f7&label=) |
-| [🌐 lanlord](https://pypi.org/project/lanlord/) | Keyboard-first network IP & port scanner with Textual TUI | `pip install lanlord` | ![](https://img.shields.io/pypi/v/lanlord?color=3b82f6&logo=pypi&logoColor=white&label=) | ![](https://img.shields.io/pypi/dm/lanlord?color=3b82f6&label=) |
-| [😺 meow-redis-ratelimiter](https://pypi.org/project/meow-redis-ratelimiter/) | Framework-agnostic Redis rate limiter for Flask, Django, FastAPI | `pip install meow-redis-ratelimiter` | ![](https://img.shields.io/pypi/v/meow-redis-ratelimiter?color=ef4444&logo=pypi&logoColor=white&label=) | ![](https://img.shields.io/pypi/dm/meow-redis-ratelimiter?color=ef4444&label=) |
-| [📅 gbu-timetable](https://pypi.org/project/gbu-timetable/) | Terminal timetable viewer for Gautam Buddha University | `pip install gbu-timetable` | ![](https://img.shields.io/pypi/v/gbu-timetable?color=22c55e&logo=pypi&logoColor=white&label=) | ![](https://img.shields.io/pypi/dm/gbu-timetable?color=22c55e&label=) |
-
+| [🖼️ zerowallpaper](https://pypi.org/project/zerowallpaper/) | Terminal wallpaper engine — stream, filter & set wallpapers from your terminal | `pip install zerowallpaper` | ![](https://img.shields.io/pypi/v/zerowallpaper?color=a855f7&logo=pypi&logoColor=white&label=) | ![](https://static.pepy.tech/badge/zerowallpaper) |
+| [🌐 lanlord](https://pypi.org/project/lanlord/) | Keyboard-first network IP & port scanner with Textual TUI | `pip install lanlord` | ![](https://img.shields.io/pypi/v/lanlord?color=3b82f6&logo=pypi&logoColor=white&label=) | ![](https://static.pepy.tech/badge/lanlord) |
+| [😺 meow-redis-ratelimiter](https://pypi.org/project/meow-redis-ratelimiter/) | Framework-agnostic Redis rate limiter for Flask, Django, FastAPI | `pip install meow-redis-ratelimiter` | ![](https://img.shields.io/pypi/v/meow-redis-ratelimiter?color=ef4444&logo=pypi&logoColor=white&label=) | ![](https://static.pepy.tech/badge/meow-redis-ratelimiter) |
+| [📅 gbu-timetable](https://pypi.org/project/gbu-timetable/) | Terminal timetable viewer for Gautam Buddha University | `pip install gbu-timetable` | ![](https://img.shields.io/pypi/v/gbu-timetable?color=22c55e&logo=pypi&logoColor=white&label=) | ![](https://static.pepy.tech/badge/gbu-timetable) |
 ---
 
 ## 🛠️ Other notable projects
