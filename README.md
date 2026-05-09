@@ -6,9 +6,10 @@
 <p align="center">
   <img src="./bba301e5b65fa5e.webp" alt="Banner" width="100%" />
 </p>
+
 **Backend Engineer · Full Stack Builder · OSS Author · AI Researcher · Community Lead**
 
-*"Spiders are the only web developers who love bugs."* 🕷️
+* "Spiders are the only web developers who love bugs."* 🕷️
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shashaaankkkkk&label=Profile+views&color=0e75b6&style=flat)](https://github.com/shashaaankkkkk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashaaankkkkk-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shashaaankkkkk)
