@@ -5,7 +5,9 @@
 # Hey, I'm Shashank Shekhar 👋
 
 **Backend Engineer · Full Stack Builder · OSS Author · AI Researcher · Community Lead**
-
+<p align="center">
+  <img src="./bba301e5b65fa5e.webp" alt="Banner" width="100%" />
+</p>
 *"Spiders are the only web developers who love bugs."* 🕷️
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shashaaankkkkk&label=Profile+views&color=0e75b6&style=flat)](https://github.com/shashaaankkkkk)
