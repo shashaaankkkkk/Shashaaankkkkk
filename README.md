@@ -14,7 +14,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shashaaankkkkk&label=Profile+views&color=0e75b6&style=flat)](https://github.com/shashaaankkkkk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashaaankkkkk-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shashaaankkkkk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shashaaankkkkk.me-orange?style=flat&logo=firefox)](https://shashaaankkkkk.me)
 [![PyPI](https://img.shields.io/badge/PyPI-4%20packages-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/shashaaankkkkk/)
 [![Blog](https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium)](https://shashaaankkkkk.medium.com)
 [![Email](https://img.shields.io/badge/Email-shashankshekhar8534@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashankshekhar8534@gmail.com)
